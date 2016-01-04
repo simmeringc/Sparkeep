@@ -4,7 +4,7 @@
 
 <a href="https://www.youtube.com/watch?v=Ji4wO4jkBkY" target="_blank"> Demo Video </a>
 
-<a href="https://www.youtube.com/watch?v=Ji4wO4jkBkY" target="_blank"> Technical Video </a>
+<a href="https://www.youtube.com/watch?v=QY3JmonrqIw" target="_blank"> Technical Video </a>
 
 ##Made by:
 
